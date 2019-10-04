@@ -1,0 +1,13 @@
+.container {
+    width: 15em;
+    height: 7em;
+    margin: auto;
+}
+
+.form {
+    margin: 2em;
+}
+
+.input-div {
+    margin: 1em 0;
+}
